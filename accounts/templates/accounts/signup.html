@@ -1,0 +1,8 @@
+<form action="" method="POST">
+    {% csrf_token %}
+    <table>
+        {{ form.as_table }}
+    </table>
+    <input class="btn btn-info" type="submit" value="회원가입">
+</form>
+<a href="{% url 'users:user_list' %}">API 리스트 가기</a>
