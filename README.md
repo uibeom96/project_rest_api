@@ -10,8 +10,9 @@ HTML / CSS / JS 는 백엔드 개발 포커스에 맞게 최대한 간단하게 
 - restapi 
 - 회원가입 기능 
 
-<img src="https://user-images.githubusercontent.com/76981768/106850041-204ffb80-66f7-11eb-8759-292318795abc.png" width="500" height="300">
 <img src="https://user-images.githubusercontent.com/76981768/106850042-21812880-66f7-11eb-9100-ab05a7195878.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/76981768/106850041-204ffb80-66f7-11eb-8759-292318795abc.png" width="500" height="300">
+
 
 해당 프로젝트는 python / Django 로 개발하였습니다.  
 
